@@ -25,6 +25,6 @@
     <li> Completed Graduation(Mechanical Engineering) from Lovely Professional University in the year 2016</li>
   </ol>
   <h3> My profile pic:</h3>
-  <img width=350 alt="not my real picture" src="https://vignette4.wikia.nocookie.net/naruto/images/d/dc/Naruto%27s_Sage_Mode.png/revision/latest?cb=20150124180545">
+  <img width=350 alt="not my real picture" src="https://www.facebook.com/photo.php?fbid=1010515118998108&set=a.125184400864522.16438.100001188889726&type=3&theater">
 </body>
 </html>
