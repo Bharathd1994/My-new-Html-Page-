@@ -1,5 +1,4 @@
 # My-new-Html-Page-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -24,7 +23,7 @@
     <li> 12th from NRI Junior College, Guntur in the year 2011</li>
     <li> Completed Graduation(Mechanical Engineering) from Lovely Professional University in the year 2016</li>
   </ol>
-  <h3> My profile pic:</h3>
-  <img width=350 alt="not my real picture" src="https://vignette4.wikia.nocookie.net/naruto/images/d/dc/Naruto%27s_Sage_Mode.png/revision/latest?cb=20150124180545">
+  <h3 title="Not My Orginal Pic"> My profile pic: </h3>
+  <img width=350 title="Naruto" alt="not my real picture" src="https://vignette4.wikia.nocookie.net/naruto/images/d/dc/Naruto%27s_Sage_Mode.png/revision/latest?cb=20150124180545">
 </body>
 </html>
